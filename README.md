@@ -1,9 +1,9 @@
-###                   Hi there 👋 Nagaraj Doddamani
+###       #            Hi there 👋 Nagaraj Doddamani
 
 # 💫 About Me:
 - 🌱 I’m currently learning at SDMCET Dharawad...
 - 📫 Reach Out Me By : doddamaninagaraj5@gmail.com
-- I am Currently learning Python<br>Engineering Student of SDMCET Dharawad.<br>Check out my YouTube Channel hear - <br><br>
+- I am Currently learning Python<br>Engineering Student of SDMCET Dharawad.<br>Check out my YouTube Channel hear - YouTube - https://youtube.com/@nagarajcreations5286?si=x3s9hL5MPpwdSAMb <br><br>
 
 
 ## 🌐 Socials:
