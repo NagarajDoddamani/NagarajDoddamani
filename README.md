@@ -17,6 +17,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NagarajDoddamani&theme=yeblu&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NagarajDoddamani&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![.](https://www.codewars.com/users/NagarajDoddamani/badges/large)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NagarajDoddamani&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
